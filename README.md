@@ -5,7 +5,7 @@ Week 5.1 <br />
 
 Week 5.2 <br />
 1 https://freelance-form.netlify.app/ <br />
-2 https://shoe-cards-project.netlify.app/ <br />
+2 Capstone https://shoe-cards-project.netlify.app/ <br />
 3 https://pricing-grid-html.netlify.app/ => https://pricing-grid-mini-project.netlify.app/ <br />
 4 https://flexbox-challenger.netlify.app/ => https://flexbox-challenger-solution.netlify.app/ <br />
 
