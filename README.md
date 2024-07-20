@@ -15,4 +15,4 @@ Week 6 <br />
 3 Capstone https://tutor-website-omega.vercel.app/ <br />
 
 Javascript <br />
-1. https://imdb-js-clone.netlify.app/ <br />
+1 https://imdb-js-clone.netlify.app/ <br />
