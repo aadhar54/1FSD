@@ -13,3 +13,6 @@ Week 6 <br />
 1 https://landing-form-fsd.netlify.app <br />
 2 https://lumina-creative-agency.netlify.app/ <br />
 3 Capstone https://tutor-website-omega.vercel.app/ <br />
+
+Javascript <br />
+1 https://imdb-js-clone.netlify.app/ <br />
