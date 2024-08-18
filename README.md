@@ -19,5 +19,6 @@ Javascript <br />
 2 https://imdb-js-clone.netlify.app/ <br />
 
 React <br />
+0 https://react.dev/learn/tutorial-tic-tac-toe <br />
 1 https://github.com/aadhar54/react_beginner_challenge  => https://react-easy-game.netlify.app/ <br />
-2 https://react-todos-ibas.vercel.app/ => https://github.com/aadhar54/react-todo-project
+2 https://react-todos-ibas.vercel.app/ => https://github.com/aadhar54/react-todo-project/ <br />
